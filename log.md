@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: November 30, 2022 (Example 1)
+### Day 0: November 30, 2022 
 
 
 **Today's Progress**: Starting with basics of Python!
